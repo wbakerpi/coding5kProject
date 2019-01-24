@@ -28,6 +28,10 @@ h1, h2{
 	color: #195F90;
 }
 
+h2{
+	font-size: 0.5%;
+}
+
 a:link, a:visited {
   text-decoration: none;
   color: #195F90;
